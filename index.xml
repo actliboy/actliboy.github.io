@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>可是后悔也没有用</title>
-    <link>http://lbyi.github.io/</link>
+    <link>http://actliboy.github.io/</link>
     <description>Recent content on 可是后悔也没有用</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn-zh</language>
+    <lastBuildDate>Wed, 15 Aug 2018 15:52:54 +0800</lastBuildDate>
     
-	<atom:link href="http://lbyi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://actliboy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>http://actliboy.github.io/second/</link>
+      <pubDate>Wed, 15 Aug 2018 15:52:54 +0800</pubDate>
+      
+      <guid>http://actliboy.github.io/second/</guid>
+      <description>可是后悔也没有用</description>
+    </item>
+    
+    <item>
+      <title>en</title>
+      <link>http://actliboy.github.io/post/first/</link>
+      <pubDate>Tue, 31 Jul 2018 18:18:11 +0800</pubDate>
+      
+      <guid>http://actliboy.github.io/post/first/</guid>
+      <description>可是后悔也没有用</description>
+    </item>
     
   </channel>
 </rss>
